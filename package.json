@@ -1,0 +1,20 @@
+{
+  "name": "vilong-system-core",
+  "version": "11.0.0",
+  "description": "AI Tai Xiu MD5 Pro - Technical Pentesting Lab",
+  "main": "lc79.js",
+  "type": "module",
+  "scripts": {
+    "start": "node lc79.js",
+    "legacy": "node lc.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^9.0.1",
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "fastify": "^4.26.1",
+    "node-fetch": "^3.3.2"
+  },
+  "author": "Vi Long",
+  "license": "ISC"
+}
